@@ -1,16 +1,15 @@
+
 head{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-variant: initial;
-    
 }
 
 body{
-    background-color: dimgray;
+    background-color: rgb(63, 88, 22);
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     
 }
 h1{
     font-size: 18px;
     font-variant: initial;
-    padding-bottom: 10px;
 }
